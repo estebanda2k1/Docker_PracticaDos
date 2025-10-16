@@ -31,7 +31,7 @@ CREATE TABLE personas (
 );
 INSERT INTO personas (nombre) VALUES 
 ('Esteban Gómez'),
-('Juan Pérez');
+('Manzanita Noboa');
 ```
 
 ## Desde el servidor postgresl
@@ -46,6 +46,5 @@ Se ingresa las credenciales del contenedor postgres creados anteriormente:
 <img width="728" height="453" alt="image" src="https://github.com/user-attachments/assets/153499b8-d895-475c-9111-85aa64600ce4" />
 
 ### Realizar un select *from personas
-# AGREGAR UNA CAPTURA DE PANTALLA DEL RESULTADO
 
 <img width="1251" height="412" alt="image" src="https://github.com/user-attachments/assets/b89f866a-6825-4339-82da-be5fb17373ec" />
