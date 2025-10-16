@@ -51,6 +51,14 @@ docker network ls
 # COLOCAR UNA CAPTURA DE LAS REDES EXISTENTES CREADAS
 
 # COLOCAR UNA(S) CAPTURAS(S) DE LOS CONTENEDORES CREADOS EN DONDE SE EVIDENCIE A QUÉ RED ESTÁN VINCULADOS
+Para poder observar en que red estan conectados los servidores se uso el siguiente comando:
+```
+docker network inspect <nombre de la red>
+```
+<img width="928" height="558" alt="image" src="https://github.com/user-attachments/assets/e31ec17e-e613-4493-a89b-f6f5fc2c44be" />
+
+<img width="928" height="558" alt="image" src="https://github.com/user-attachments/assets/492ffe2f-0643-4b60-8e29-4e512543ba0f" />
+
 
 ### Para eliminar las redes creadas
 ```
